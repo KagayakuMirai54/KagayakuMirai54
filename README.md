@@ -15,6 +15,13 @@ experience.
 </a>
 </p>
 
+### You Can reach Me :
+#### Email     : [bryankusuma54@mail.com](bryankusuma54@gmail.com)
+#### Facebook  : [@bryan ilyus](https://id-id.facebook.com/bryan.kusuma354)
+#### Instagram : [@bryan_ilyus](https://www.instagram.com/bryan_ilyus/?hl=en)
+#### Youtube   : [@Bryan ilyus Tejakusuma](https://www.youtube.com/channel/UCd6ydXZ-QCLYqtjLseM3sXA/videos?app=desktop)
+#### Telegram, Line, & Twitter : @bryan_ilyus
+
 <!--
 **KagayakuMirai54/KagayakuMirai54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
