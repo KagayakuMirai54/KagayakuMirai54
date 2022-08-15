@@ -7,7 +7,6 @@ software (especially mobile phones).
 Selective in action. Glad to be able to convey
 the knowledge gained from personal
 experience.
-
 <p align="left">
 <a href="https://github.com/KagayakuMirai54">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KagayakuMirai54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
