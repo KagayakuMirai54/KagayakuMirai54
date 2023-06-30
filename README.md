@@ -1,8 +1,8 @@
 
 ## Hi Everyone
-I'm Bryan Ilyus Tejakusuma, a 5th semester
+I'm Bryan Ilyus Tejakusuma, a 6th semester
 student at Amikom University Yogyakarta S1
-in the field of Information Systems for the 2022/2023 . Likes to learn new things related to
+in Information Systems for the 2022/2023 even-semester academic year. . Likes to learn new things related to
 software (especially mobile phones).
 Selective in action. Glad to be able to convey
 the knowledge gained from personal
