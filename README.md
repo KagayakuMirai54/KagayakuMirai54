@@ -1,12 +1,6 @@
 
 ## Hi Everyone
-I'm Bryan Ilyus Tejakusuma, a 6th semester
-student at Amikom University Yogyakarta S1
-in Information Systems for the 2022/2023 even-semester academic year. . Likes to learn new things related to
-software (especially mobile phones).
-Selective in action. Glad to be able to convey
-the knowledge gained from personal
-experience.
+Hello, how's it going? l'm Bryan ilyus Tejakusuma, a graduate of AMIKOM University Yogyakarta with a GPA of 3.6 in Information Systems. I am committed to continue learning and improving my skills in mobile programming to make a positive contribution to the company in the future. Likes to learn new things related to software (especially mobile phones). Selective in action. Glad to be able to convey the knowledge gained from personal experience.
 <p align="left">
 <a href="https://github.com/KagayakuMirai54">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KagayakuMirai54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
